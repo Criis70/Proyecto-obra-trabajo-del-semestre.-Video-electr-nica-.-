@@ -59,6 +59,13 @@ Las variables se suelen crear, antes del setup, una declaración de la variable.
 
 Escribir alguna frase en processing. 
 
+Entrega 3
+
+Frase + variaciones de movimiento + constructivismo ruso. Un afiche en movimiento. 
+
+investigar variables de tipo "String"
+
+
 
 
 
