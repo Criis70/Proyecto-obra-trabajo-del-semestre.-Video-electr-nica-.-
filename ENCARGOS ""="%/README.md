@@ -8,14 +8,16 @@ De esto rescato el uso del video, la animación y el render, como forma de compa
 
 https://www.harunfarocki.de/installations/1995.html
 
-![Texto alternativo]
+![Texto alternativo](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20201341.png)
+![IMAGEN](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20201429.png)
+![IMAGEN](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20201519.png)
 
 Demian Schopf - De este artista me interesa su obra Locus Amoenus Trinitas (2004), esta obra consiste en la reproducción de 3 videos, osea un puro video pero reproducido en 3 pantallas, dentro de una capilla/iglesia de Iquique, en medio de la misa, se reproduce y el contenido es la mano del mismo artista, quien hace las 26 letras del vocalubario en lenguaje de señas. 
 Más que nada me gusta la relación del "montaje", que relaciona dos ambientes, el de la pantalla que muestra algo "ficción" que es el video y la edición del video y la unión con todo este ambiente un tanto "sacro", entonces esta relación entre espiritualidad y digitalidad, nose, me hace sentido, siento que ahi hay algo de lo cual me llama mucho, pero aun no tengo bien clara la idea. 
 
 https://demianschopf.com/es/obras/locus-amoenus-trinitas
 
-(imagen)
+![Imagen](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20200757.png) 
 
 Lev Manovich - The Exceptional and the Everyday: 144 Hours in Kyiv (2014), esta obra de Lev, reune una serie de videos/contenido sacado del feed de instagram en donde archivan publicaciones compartidas por diversas personas, en medio de un acontecimiento geopolítico en Ucrania, "¿Qué pueden decirnos las redes sociales visuales sobre las experiencias de miles de personas y la vida en su ciudad durante un levantamiento social?" bajo esta premisa la obra aplica. De esta maneras las redes sociales, funcionan como un catastro de opiniones y afirmaciones, ademas de opiniones, o más que opiniones de perspectivas y visualidades que consume la población. Se explora la idea de la influencia de las redes sociales en el criterio global, y en como inside en la opinione de las personas, la toma de decisiones. De aquello me gusta la exhibión gratuita de las personas en redes, la facilidad para compartir sus perspectivas x las redes, como si no hubieses consecuencia, nose, esto me parece interesante el fenómeno que se produce, como una especie de confesatorio, donde las personas encuentran su refugio. 
 
@@ -28,7 +30,9 @@ Inti Gallardo - MNEMOC(Y)NE, "El límite exterior del espacio físico está defi
 
 https://www.intigallardo.com/s-projects-side-by-side
 
-(imagen) 
+![imagen](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20220936.png)
+![imagen](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20220908.png)
+
 
 
 
