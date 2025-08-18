@@ -7,6 +7,8 @@ En cuanto a la obra, me llama la atención sus videos de la decada del 2000´s a
 De esto rescato el uso del video, la animación y el render, como forma de comparar el estado de realidad fisica y el otro plano de realidad que seria el digital, donde tiene sus propias reglas y eso, de esta manera pienso en que como ''personas'' somos con un ente hibrido entre estos dos planos, vivimos tanto en algo fisico como en algo digital. (nose son ideas)
 
 (imagen)  
+![Texto alternativo](ruta/a/la/imagen.png)
+
 
 Demian Schopf - De este artista me interesa su obra Locus Amoenus Trinitas (2004), esta obra consiste en la reproducción de 3 videos, osea un puro video pero reproducido en 3 pantallas, dentro de una capilla/iglesia de Iquique, en medio de la misa, se reproduce y el contenido es la mano del mismo artista, quien hace las 26 letras del vocalubario en lenguaje de señas. 
 Más que nada me gusta la relación del "montaje", que relaciona dos ambientes, el de la pantalla que muestra algo "ficción" que es el video y la edición del video y la unión con todo este ambiente un tanto "sacro", entonces esta relación entre espiritualidad y digitalidad, nose, me hace sentido, siento que ahi hay algo de lo cual me llama mucho, pero aun no tengo bien clara la idea. 
