@@ -13,10 +13,13 @@ Más que nada me gusta la relación del "montaje", que relaciona dos ambientes, 
 
 (imagen)
 
-Lev Manovich - The Exceptional and the Everyday: 144 Hours in Kyiv (2014), esta obra de Lev, reune una serie de videos/contenido sacado del feed de instagram en donde archivan publicaciones compartidas por diversas personas, en medio de un acontecimiento geopolítico en Ucrania, "¿Qué pueden decirnos las redes sociales visuales sobre las experiencias de miles de personas y la vida en su ciudad durante un levantamiento social?" bajo esta premisa la obra aplica. De esta maneras las redes sociales, funcionan como un catastro de opiniones y afirmaciones, ademas de opiniones, o más que opiniones de perspectivas y visualidades que consume la población. Se explora la idea de la influencia de las redes sociales en el criterio global, y en como inside en la opinione de las personas, la toma de desiciones., etc. 
+Lev Manovich - The Exceptional and the Everyday: 144 Hours in Kyiv (2014), esta obra de Lev, reune una serie de videos/contenido sacado del feed de instagram en donde archivan publicaciones compartidas por diversas personas, en medio de un acontecimiento geopolítico en Ucrania, "¿Qué pueden decirnos las redes sociales visuales sobre las experiencias de miles de personas y la vida en su ciudad durante un levantamiento social?" bajo esta premisa la obra aplica. De esta maneras las redes sociales, funcionan como un catastro de opiniones y afirmaciones, ademas de opiniones, o más que opiniones de perspectivas y visualidades que consume la población. Se explora la idea de la influencia de las redes sociales en el criterio global, y en como inside en la opinione de las personas, la toma de decisiones. De aquello me gusta la exhibión gratuita de las personas en redes, la facilidad para compartir sus perspectivas x las redes, como si no hubieses consecuencia, nose, esto me parece interesante el fenómeno que se produce, como una especie de confesatorio, donde las personas encuentran su refugio. 
 
+(imagen)
 
-Inti Gallardo - 
+Inti Gallardo - MNEMOC(Y)NE, "El límite exterior del espacio físico está definido por las mismas películas expuestas en su materialidad original. El proyecto pretende expandirse con el tiempo, añadiendo imágenes a un atlas en movimiento, que reporta la vida nómada del tiempo-espacio fragmentado y la no existencia de fronteras digitales.". Esta obra es un video de una realidad virtual, en donde uno pone y descompone diversos videos filmados por Aby Warbug, esta obra es de mi interes, porq sigue con la línea de realidad - ficción(digital), las nuevas visualidades, la inmortalidad, los límites de nuestra "visualidad", y la supervivencia digital. 
+
+(imagen) 
 
 
 
