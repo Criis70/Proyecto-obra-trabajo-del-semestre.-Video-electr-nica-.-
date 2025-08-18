@@ -34,6 +34,18 @@ https://www.intigallardo.com/s-projects-side-by-side
 ![imagen](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20220908.png)
 
 
+# Encargo nro 2: 
+
+Traer un referente que trabaje con texto, que sea un estímulo, nose algo que motive y que sea texto. En mi caso son las publicaciones de instagram de la cuenta llamada. - feliciarichwanderer -, en estas publicaciones se ven fragmentos, frases, diversos escritos sobre imagenes de don nadies, y personas no personas, no lo se, es una estética algo mística que me llama la atención, es como un ser digital o que le da un plus a ese incógnito. 
+
+INSTAGRAM: https://www.instagram.com/feliciarichwanderer/?hl=es-la 
+
+![IMAGEN](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20225324.png)
+![A](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20225216.png)
+![*](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20225149.png)
+![*](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/Imagenes/Captura%20de%20pantalla%202025-08-17%20225038.png)
+
+
 
 
 
