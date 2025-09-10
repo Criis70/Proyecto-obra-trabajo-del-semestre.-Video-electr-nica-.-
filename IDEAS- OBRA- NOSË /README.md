@@ -27,6 +27,10 @@ Hacer un circuito + videoarte, proyeccón nose.
 
 Relacionarlo con la luz, la ciudad, la acción y el castigo. 
 
+## Idea nro 3: COMERCIALES PARA CARNIVAL. 
+
+
+
 
 
 
