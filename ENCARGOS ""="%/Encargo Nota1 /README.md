@@ -12,7 +12,7 @@
 
 ## REGISTRO: 
 
-![video](//github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/videos/VID_20241210_020423_2.mp4)
+![video](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/videos/VID_20241210_020423_2.mp4)
 
 ## CODIGO TERMINADO :)
 ```
