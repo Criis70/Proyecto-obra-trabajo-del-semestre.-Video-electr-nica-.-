@@ -10,6 +10,10 @@
   
 - La realidad es tan áspera - Imagen + scroll ( CIRCULO CON CARITA QUE ES FELIZ Y LUEGO TRISTE)- necesitas las drogas - imagen referencial (Hoja de marihuana) -  necesitas drogarte - no eres feliz por eso las usas - si el mundo funcionase bien quizás nadie se dedicaría pasar de lunes a viernes bajo una rutina qla para luego ir a tomar el viernes por la noche y hacerte mierda cada fin de semana que pase. Mejor fumate un cigarro - imagen referencial (cigarro) - , CARNIVAL! - imagen de cajetilla (cajetilla de carnival) -  no pienses más y acelera  el camino al cielo - imagen del paraiso.
 
+## REGISTRO: 
+
+![video](//github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/blob/main/videos/VID_20241210_020423_2.mp4)
+
 ## CODIGO TERMINADO :)
 ```
 #include <Wire.h>
