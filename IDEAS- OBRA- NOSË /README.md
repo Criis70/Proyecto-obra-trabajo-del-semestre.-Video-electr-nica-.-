@@ -29,6 +29,22 @@ Relacionarlo con la luz, la ciudad, la acción y el castigo.
 
 ## Idea nro 3: COMERCIALES PARA CARNIVAL. 
 
+- ¿Que hacer?
+- PARTE 1 --> Serie de cortos/videos, de entre 30 a 5 minutos que operen bajo la idea de un comercial falso para la marca de cigarros de contrabando <<CARNIVAL>>
+- PARTE 2 --> Animar en 3D diversas cajetillas de cigarros de la marca carnival, modificar el contenido grafico (imagenes), agregar texturas que aluden a la ciudad, la cotidianidad, el espectáculo y la ficción. etc
+- PARTE 3 --> Realizar el material gráfico para las cajetillas, diseñar la imagenes, que contengan frases de tipo "lemas" "eslogánes" "mensajes de protesta" o escribir "reflexiones" o "ensayos" breves, que aludan a revelarse en contra del sistema de cansancio o al espectaculo en cual vivimos inmersos. Ejemplos: - REDES SOCIALES, ALGORITMOS DE CONTENIDO, EXPECTATIVAS CULTURALES, INDIVIDUALISMO, DISMORFIA CORPORAL.
+
+- ¿Porque?
+- ya que, debido a observaciones, percepciones y lecturas, he dado cuenta de que toda relacion social está mediatizada por imágenes, que todo lo que vemos y percibimos como "real" enrealidad es un espectáculo, creado para captar nuestra atención y alterar nuestra opinión pública. La obra en si opera bajo esta condición de ser espectacular, esta diseñada para captar la atención y promover un producto, en este caso una marca de cigarrillos, pero es este mismo acto, la cajetilla y el contenido conceptual del comercial, quien entrega el mensaje que invita a una reflexión a cuestionar los nuevos modos de relaciones sociales.
+- El 3D funciona como un artefacto que vive en la digitalidad. La digitalidad es otro estado de la experiencia humana, el cual la divido en cuatro: Lo físico - Lo digital - lo online - lo offline. Es asi como opera nuestra realidad, existe una fisica de carne y hueso donde habitan nuestras relaciones más genuinas, allí opera nuestra conducta y donde se expresan nuestros impulsos. Por otro lado el digital/online que funciona en como nosotros interactuamos con otros pero a traves de un dispotivo, aquí se contempla nuestras percepciones y opiniones sobre lo que nos rodea.
+- Las frases y esloganes de la cajetillas, son un recurso para la reflexión.
+
+- ¿Como hacerlo?
+- Primero: Grabar con una handycam diversas escenas, recontruir un guión o una narrativa para dar vida a los comerciales, utilizar material de archivo televisivo nacional, etc.
+- Segundo: Hacer diversas animación en 3D de las cajetillas.
+- Tercero: Imprimir cajetillas y armas cajetillas modificadas, agregar una pantalla oled a algunas de las cajetillas, para que contengan tambien la frases/eslogánes. 
+  
+
 
 
 
