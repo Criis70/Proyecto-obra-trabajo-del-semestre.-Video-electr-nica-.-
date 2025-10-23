@@ -54,6 +54,9 @@ Anotaciones sobre el montaje pasado ( para explicar mejor por donde va).
 
 - PayPerView: Maquina/Monedero electrónico - Hay un fichero, Arduino, Raspberry 4, monitor. Se inserta una moneda, señal al arduino, en la respi lee la señal en processing. El serial cada que se inserte una moneda se lee como un 1. En processing el 1 significa reproducir un video* aleatorio de una lista de reproducción. Mientras no haya señal se muestra una animación, es una cajetilla girando en su propio eje, la cajetilla esta alterada en su diseño gráfico y enseña una frase del texto "La Sociedad del Espectáculo" de Guy Debord. A su vez hay un cuadrado que robota cada que toca un limite en el screen mientras cambia de color, y dentro del cuadrado hay un texto* que cambia cuando este rebota.
 
+![imagen](
+
+
 Al reverso del maquina se encuentra en una grilla/malla, una pantalla oled que va tirando diversas frases apelando al texto anterior.
 *Video: Archivos de eventos de la televisión, cultura nacional, acontecimientos geopolíticos. (realitys, 11S2001, Saddam Hussein, Calle7, Kathy Barriga, etc.  
 *Texto: CNTV, Meta, AlphabetInc, Msft. 
