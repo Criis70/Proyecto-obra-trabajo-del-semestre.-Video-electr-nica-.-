@@ -43,74 +43,23 @@ Relacionarlo con la luz, la ciudad, la acción y el castigo.
 - Primero: Grabar con una handycam diversas escenas, recontruir un guión o una narrativa para dar vida a los comerciales, utilizar material de archivo televisivo nacional, etc.
 - Segundo: Hacer diversas animación en 3D de las cajetillas.
 - Tercero: Imprimir cajetillas y armas cajetillas modificadas, agregar una pantalla oled a algunas de las cajetillas, para que contengan tambien la frases/eslogánes. 
+
+##idea random: 
+hacer algo con las llamadas telefonicas, IA, estafa, dialogo. 
   
-# 30/09/2025
+# proyecto/ imagenes/ presentación del trabajo. 
 
-Conversación con ChatGpt, le pregunté si es que me podía hacer un plan para estructurar mis ideas y hacer un plan de trabajo, ya que nose cmo hacer para aterrizar las ideas :C. 
+Anotaciones sobre el montaje pasado ( para explicar mejor por donde va). 
+- Constaba de dos instalaciones: 1ro - PayPerView. 2do - Lingua Franca.
 
-Te propongo un **mapa de proceso** que puedes usar como guía (flexible, no rígida):
+- PayPerView: Maquina/Monedero electrónico - Hay un fichero, Arduino, Raspberry 4, monitor. Se inserta una moneda, señal al arduino, en la respi lee la señal en processing. El serial cada que se inserte una moneda se lee como un 1. En processing el 1 significa reproducir un video* aleatorio de una lista de reproducción. Mientras no haya señal se muestra una animación, es una cajetilla girando en su propio eje, la cajetilla esta alterada en su diseño gráfico y enseña una frase del texto "La Sociedad del Espectáculo" de Guy Debord. A su vez hay un cuadrado que robota cada que toca un limite en el screen mientras cambia de color, y dentro del cuadrado hay un texto* que cambia cuando este rebota.
 
----
-
-### 🔹 1. Recolectar (el “caos” es materia prima)
-
-* Junta todos tus apuntes, referentes visuales, frases, notas sueltas.
-* No los juzgues todavía: déjalos estar en una misma libreta, carpeta digital o mural (puede ser físico o en Miro/Milanote/Notion).
-* Aquí la idea es **ver todo junto** y empezar a notar patrones o cosas que se repiten.
-
----
-
-### 🔹 2. Definir ejes
-
-A partir de esa colección, define 2 o 3 **ejes de fuerza** de tu proyecto. Por ejemplo, en lo que me contaste yo veo:
-
-1. **Anomia** (concepto madre, ruptura de normas, desajuste social).
-2. **Cajetilla de contrabando / Publicidad** (objeto y lenguaje formal).
-3. **Sociedad del espectáculo** (marco teórico que da sentido crítico).
-
-Todo lo demás (frases, referentes, técnicas) puede ir orbitando alrededor de estos ejes.
-
----
-
-### 🔹 3. Transformar referentes en acciones
-
-En vez de quedarte en lo conceptual, traduce cada referente en una **acción concreta**. Ejemplo:
-
-* Referente → “La Sociedad del Espectáculo” → Acción → Insertar frases de Debord como slogans publicitarios en la cajetilla.
-* Referente → Cajetilla Carnival → Acción → Rediseño gráfico en Blender con íconos de consumo y morbo.
-* Referente → Comerciales → Acción → Hacer cortos de 30s con estética *spot* pero mensajes subversivos.
-
----
-
-### 🔹 4. Experimentar en pequeño
-
-No intentes abarcar todo a la vez. Haz **prototipos rápidos**:
-
-* Un mockup de cajetilla con un slogan.
-* Un clip de 10 segundos con estética comercial.
-* Una prueba gráfica tipo afiche.
-
-Estos pequeños experimentos te van mostrando **qué funciona y qué no**, y van afinando la dirección.
-
----
-
-### 🔹 5. Estructurar el proyecto
-
-Cuando ya tengas material de prueba, piensa:
-
-* ¿Cuántos cortos quiero hacer? (ej. 3 o 4, cada uno con una consecuencia de la anomia).
-* ¿Cómo se van a mostrar? (proyección, instalación con pantallas, loop, redes sociales).
-* ¿Qué rol tendrán las cajetillas físicas/digitales? (¿objeto de instalación, video-prop, diseño impreso?).
-
----
-
-### 🔹 6. Reflexión y discurso
-
-En paralelo, escribe un **diario breve** donde anotes qué buscabas con cada experimento y qué descubriste. Eso te ayudará a armar luego tu statement y a defender el proyecto frente a profes.
-
----
+Al reverso del maquina se encuentra en una grilla/malla, una pantalla oled que va tirando diversas frases apelando al texto anterior.
+*Video: Archivos de eventos de la televisión, cultura nacional, acontecimientos geopolíticos. (realitys, 11S2001, Saddam Hussein, Calle7, Kathy Barriga, etc.  
+*Texto: CNTV, Meta, AlphabetInc, Msft. 
+- Lingua Franca: Un televisor en el piso mirando hacia arriba, se encuentra dentro de una bolsa matutera llena de cajetillas de cigarro(Carnival) - En el televisor de reproduce un video (comercial para Carnival).
 
 
-
+  
 
 
