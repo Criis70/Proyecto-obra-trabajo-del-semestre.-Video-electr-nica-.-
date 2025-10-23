@@ -54,13 +54,27 @@ Anotaciones sobre el montaje pasado ( para explicar mejor por donde va).
 
 - PayPerView: Maquina/Monedero electrónico - Hay un fichero, Arduino, Raspberry 4, monitor. Se inserta una moneda, señal al arduino, en la respi lee la señal en processing. El serial cada que se inserte una moneda se lee como un 1. En processing el 1 significa reproducir un video* aleatorio de una lista de reproducción. Mientras no haya señal se muestra una animación, es una cajetilla girando en su propio eje, la cajetilla esta alterada en su diseño gráfico y enseña una frase del texto "La Sociedad del Espectáculo" de Guy Debord. A su vez hay un cuadrado que robota cada que toca un limite en el screen mientras cambia de color, y dentro del cuadrado hay un texto* que cambia cuando este rebota.
 
-![imagen](
+![f1](https://github.com/user-attachments/assets/da526e25-210e-4e96-bbf2-b3f1e80c09ec)
+![f4](https://github.com/user-attachments/assets/e3c10756-59a3-4825-b60e-b19313a11ad9)
+![f5](https://github.com/user-attachments/assets/918b0d4a-1d99-4c46-8e78-0541728899ac)
 
 
 Al reverso del maquina se encuentra en una grilla/malla, una pantalla oled que va tirando diversas frases apelando al texto anterior.
 *Video: Archivos de eventos de la televisión, cultura nacional, acontecimientos geopolíticos. (realitys, 11S2001, Saddam Hussein, Calle7, Kathy Barriga, etc.  
 *Texto: CNTV, Meta, AlphabetInc, Msft. 
+
 - Lingua Franca: Un televisor en el piso mirando hacia arriba, se encuentra dentro de una bolsa matutera llena de cajetillas de cigarro(Carnival) - En el televisor de reproduce un video (comercial para Carnival).
+
+![f2](https://github.com/user-attachments/assets/3eaca59f-9589-4824-9685-0591f42538e1)
+(https://vimeo.com/1127607185?fl=ip&fe=ec) 
+
+### proyección. 
+
+Complejizar el contenido en la pantalla oled, aplicar "realidad aumentada", y profundizar en el sonido ambiente + algun sensor, hacer que la maquina tenga "vida". 
+La moneda no se devuelve, tiene que caer sobre algo, nose en donde. 
+
+
+
 
 
   
