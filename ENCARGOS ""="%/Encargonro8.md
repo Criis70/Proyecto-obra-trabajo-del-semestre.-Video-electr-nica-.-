@@ -104,6 +104,8 @@ void loop() {
   lastButtonState = buttonState;
 }
 ```
+A partir de este punto para poder concretar el encargo, utilicé la IA ChatGPT para que me ayudase con los proximos codigos, ya que mi intención era realizar una animación en 3D en Processing, y que este comunicado con el Encoder. 
+
 ### Codigo N°2 para comunicar con Processing
 
 ```
