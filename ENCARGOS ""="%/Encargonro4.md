@@ -6,6 +6,9 @@ Escribir una frase en código morse, en processing
 
 " la distracción nos impide el desarrollo de un pensamiento crítico"
 
+video registro: 
+- link: <https://drive.google.com/file/d/1oVhGwNzduKx-09VPSKmdZMdOjyQZsOBm/view?usp=sharing>
+
 codigo en Arduino 
 
 ```
