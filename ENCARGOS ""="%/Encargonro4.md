@@ -184,5 +184,7 @@ void u(){
     punto(); punto(); raya(); 
 }
 ```
+##Encargo bonus 
 
+Luego de terminar el encargo posterior el nro 5, salí al balcón de mi apartamento a pensar sobre las posibilidades entre la luz emitida en morse y otro receptor que pueda traducir la luz para luego transcribirlo en algun lado, esto pensando en el referente que nos dió en la clase del día 23 de octubre, donde nos mostró un proyecto en donde se "complejiza" demasiado el lenguaje, por medio de un morse, sensores, impresión sobre boleta y audio, no recuerdo muy bien el referente. 
 
