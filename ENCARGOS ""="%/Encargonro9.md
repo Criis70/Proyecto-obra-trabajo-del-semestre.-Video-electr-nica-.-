@@ -106,4 +106,11 @@ Link <https://drive.google.com/file/d/1oT6W6VgpmfoWofINjeUBWDC1c_CY_Gds/view?usp
 
 <img width="604" height="346" alt="Captura de pantalla 2025-10-29 023759" src="https://github.com/user-attachments/assets/c3749b2c-c019-471b-af05-061cfdc0aace" />
 
+### IDEAS O PIES FORZADOS
+
+1- tiene que ser económico, es decir ... si pillo cosas en la basura, mejor.
+2- Conseguirme una pantalla, ya sea un monitor viejo o televisión plana 
+3- ¿Puedo controlar la luminosidad de una pantalla solo con arduino o necesito de una raspberry?. 
+
+
 
