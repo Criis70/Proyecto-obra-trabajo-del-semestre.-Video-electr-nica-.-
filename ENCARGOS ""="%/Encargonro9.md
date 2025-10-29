@@ -108,9 +108,11 @@ Link <https://drive.google.com/file/d/1oT6W6VgpmfoWofINjeUBWDC1c_CY_Gds/view?usp
 
 ### IDEAS O PIES FORZADOS
 
-1- tiene que ser económico, es decir ... si pillo cosas en la basura, mejor.
-2- Conseguirme una pantalla, ya sea un monitor viejo o televisión plana 
-3- ¿Puedo controlar la luminosidad de una pantalla solo con arduino o necesito de una raspberry?. 
+1 - tiene que ser económico, es decir ... si pillo cosas en la basura, mejor.
+
+2 - Conseguirme una pantalla, ya sea un monitor viejo o televisión plana 
+
+3 - ¿Puedo controlar la luminosidad de una pantalla solo con arduino o necesito de una raspberry?. 
 
 
 
