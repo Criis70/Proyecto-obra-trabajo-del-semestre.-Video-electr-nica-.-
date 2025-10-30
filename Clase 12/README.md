@@ -2,7 +2,7 @@
 
 Conversamos sobre nuestro proyecto electrónico 
 - Tengo que trabajar en el montaje e investigar sobre pantallas solares - fotodiodos y una ampolleta infrarroja. 
-- Separar el led del ldr para que se vea la comunicación - Quiero que se vea la interacción 
+- Separar el led del ldr para que se vea la comunicación - Quiero que se vea la interacción entre el led y el ldr, como hacerlo visible? - Una caja de acrilico como "Voyerista".
 - Electrónica Hobby / San Diego 962. 
 
 Tareas: 
